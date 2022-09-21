@@ -2,6 +2,7 @@ Satus :
     Working ✔
 
 Usage :
+
     In .env set to yours:
         IgName=
         IgPassword=
@@ -10,3 +11,8 @@ Usage :
     It will be asking a verification code on your phone (From Instagram)
     Enter the code eg: "142142"
     It will show the info on the person (available infos)
+
+Errors:
+
+    Either Wrong Name/Username in .env
+    API Error (Not Me)
